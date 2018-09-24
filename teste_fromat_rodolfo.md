@@ -13,3 +13,14 @@ console.log('rdtrk: '+getCookie('rdtrk'));
 ```
 
 bla bla bla
+
+
+```html
+<script type="text/javascript">
+var form = $('#conversion-form');
+var inputNome = form.find('input[name="nome"]');
+var inputEmail = form.find('input[name="email"]');
+</script>
+```
+
+bla bla bla
